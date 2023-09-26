@@ -1,6 +1,6 @@
 
 
-<h1> cosmics</h1>
+<h1> Nuevos Lanzamientos de Maquillaje - Siempre a la Moda</h1>
 
 Descripción: "Aprovecha nuestras increíbles ofertas en productos de maquillaje de alta calidad. Obtén los looks que amas a precios que te encantarán. No sacrifiques la calidad por el precio. ¡Descubre nuestras ofertas hoy y ahorra mientras te ves increíble!"
 
