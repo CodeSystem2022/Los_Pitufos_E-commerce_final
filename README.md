@@ -24,4 +24,6 @@ Descripción: "Aprovecha nuestras increíbles ofertas en productos de maquillaje
 
 °Luciano Quinteros
 
+°Jorje De la Plata
+
 °Ezequiel Garcia
