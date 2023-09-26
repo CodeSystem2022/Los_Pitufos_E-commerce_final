@@ -21,5 +21,7 @@ Descripción: "Aprovecha nuestras increíbles ofertas en productos de maquillaje
 °Ana Castello
 
 °Santiago Mañas
+
 °Luciano Quinteros
+
 °Ezequiel Garcia
