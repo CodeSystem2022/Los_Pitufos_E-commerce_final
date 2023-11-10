@@ -1,5 +1,5 @@
 [![los-pitufos-la-aldea-escondida-2017.jpg](https://i.postimg.cc/k4kMv3zn/los-pitufos-la-aldea-escondida-2017.jpg)](https://postimg.cc/xJ3S9797)
-<h1 align="center">Proyecto Integrador - Final</h1>
+<h1 align="center">Proyecto Integrador Tienda de Maquillje COSMIC COSMIC</h1>
 
 
 <h2> Integrantes 
@@ -23,7 +23,7 @@
 <br>
 
 
-<h2>  Nuestro Proyecto  Tienda de Maquillje COSMIC COSMIC</h2>
+<h2>  Descripcion del proyecto  </h2>
 
 
 
