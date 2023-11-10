@@ -1,5 +1,5 @@
 <p align="center">
- [![Animación de mi proyecto](https://i.postimg.cc/j2zPYXrr/giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif)](https://postimages.org/)
+![Animación de mi proyecto](https://i.postimg.cc/j2zPYXrr/giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif)
 
 
 <h1 align="center">Proyecto Integrador - Final</h1>
