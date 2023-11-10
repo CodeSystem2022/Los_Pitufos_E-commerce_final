@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="  " alt="LogoAnimado" width="100%" height="400">
+  <img src=" [giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif](https://postimg.cc/9wQrGyMx) " alt="LogoAnimado" width="100%" height="400">
 </p>  
 
 <h1 align="center">Proyecto Integrador - Final</h1>
