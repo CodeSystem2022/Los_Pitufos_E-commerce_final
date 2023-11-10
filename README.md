@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CodeSystem2022/ProyectoIntegrador-Compunerds/assets/86338019/2c1e977d-17ff-41a7-a3cd-994411e497fe" alt="LogoAnimado" width="100%" height="400">
+  <img src="los pitufos" alt="LogoAnimado" width="100%" height="400">
 </p>  
 
 <h1 align="center">Proyecto Integrador - Final</h1>
