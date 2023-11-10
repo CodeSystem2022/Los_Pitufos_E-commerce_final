@@ -3,15 +3,15 @@
 
 
 <h2> Integrantes 
-    Backend🚀</h2>
-<li><b>👩‍💻<a href="https://github.com/mayhrina30)">Mayra Manzaneda</a></b></li>
+    Backend👨🏽‍🔧👩🏽‍🔧</h2>
+<li><b>👩🏽‍💻<a href="https://github.com/mayhrina30)">Mayra Manzaneda</a></b></li>
 <li><b>👩‍💻<a href="https://github.com/mairaggimenez">Maira Gimenez</a></b></li>
-<li><b>👩‍💻<a href="https://github.com/LucianaBaigorria">Luciana Baigorria</a></b></li>
+<li><b>👩🏻‍💻<a href="https://github.com/LucianaBaigorria">Luciana Baigorria</a></b></li>
  <li><b>👨‍💻<a href="https://github.com/jorolio">Jorje De la Plata</a></b></li>
 
 <br> 
 <ul style="list-style-type: none;">
-    <h2>Equipo front</h2>
+    <h2>Equipo front👨‍🎨👩‍🎨 </h2>
 
 <li><b>👩‍💻<a href="https://github.com/anacastello19">Ana Castello</a></b></li>
 <li><b>👨‍💻<a href="https://github.com/Luciano06663">Luciano Quintero</a></b></li>
@@ -23,7 +23,9 @@
 <br>
 
 
-<h2>  Nuestro Proyecto </h2>
+<h2>  Nuestro Proyecto  Tienda de Maquillje COSMIC COSMIC</h2>
+
+
 
 
 
