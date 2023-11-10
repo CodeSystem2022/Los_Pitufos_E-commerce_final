@@ -1,9 +1,4 @@
-<div class="container-icon">
-            <div class="container-cart-icon">
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                    stroke="currentColor" class="icon-cart">
-                    <path stroke-linecap="round" stroke-linejoin="round"
-                        d="M15.75 10.5V6a3.75 3.75 0 10-7.5 0v4.5m11.356-1.993l1.263 
+[![giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif](https://i.postimg.cc/j2zPYXrr/giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif)](https://postimg.cc/9wQrGyMx)
 <h1 align="center">Proyecto Integrador - Final</h1>
 
 
