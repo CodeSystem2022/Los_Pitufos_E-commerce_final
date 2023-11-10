@@ -1,6 +1,4 @@
-<p align="center">
-![Animación de mi proyecto](https://i.postimg.cc/j2zPYXrr/giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif)
-
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/j2zPYXrr/giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif' border='0' alt='giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy'/></a>
 
 <h1 align="center">Proyecto Integrador - Final</h1>
 
