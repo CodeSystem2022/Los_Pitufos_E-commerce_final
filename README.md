@@ -1,4 +1,4 @@
-[![giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif](https://i.postimg.cc/j2zPYXrr/giphy-gif-cid-ecf05e47zhj8xc2pkt4xteydcz7tskkkdcxhwj2ues5sdml5-ep-v1-gifs-search-rid-giphy.gif)](https://postimg.cc/9wQrGyMx)
+[![los-pitufos-la-aldea-escondida-2017.jpg](https://i.postimg.cc/k4kMv3zn/los-pitufos-la-aldea-escondida-2017.jpg)](https://postimg.cc/xJ3S9797)
 <h1 align="center">Proyecto Integrador - Final</h1>
 
 
