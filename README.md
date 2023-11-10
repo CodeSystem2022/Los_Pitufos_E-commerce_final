@@ -5,7 +5,7 @@
 <h2> Integrantes 🚀</h2>
 <br> 
 <ul style="list-style-type: none;">
-    <li><b>👩‍🚀 <a href="https://github.com/mayhrina30)">Mayra Manzaneda</a></b></li>
+    <li><b>👩‍🚀 <a href="https://github.com/mayhrina30)">Mayra Manzaneda</a></b></li>backend
     <li><b>👨‍🚀 <a href="https://github.com/mairaggimenez">Maira Gimenez</a></b></li>
     <li><b>👨‍🚀 <a href="https://github.com/LucianaBaigorria">Luciana Baigorria</a></b></li>
     <li><b>👨‍🚀 <a href="https://github.com/anacastello19">Ana Castello</a></b></li>
