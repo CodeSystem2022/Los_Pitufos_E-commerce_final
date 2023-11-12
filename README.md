@@ -14,7 +14,7 @@
     <h2>Equipo front👨‍🎨👩‍🎨 </h2>
 
 <li><b>👩‍💻<a href="https://github.com/anacastello19">Ana Castello</a></b></li>
-<li><b>👨‍💻<a href="https://github.com/Luciano06663">Luciano Quintero</a></b></li>
+<li><b>👨‍💻<a href="https://github.com/Luciano06663">Luciano Quinteros</a></b></li>
 <li><b>👨‍💻<a href="https://github.com/EzequielgGarcia">Ezequiel Garcia</a></b></li>
 <li><b>👨‍💻<a href="https://github.com/santimanas">Santiago Mañas</a></b></li>
 
