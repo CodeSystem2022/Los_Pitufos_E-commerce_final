@@ -7,7 +7,7 @@
 <li><b>👩🏽‍💻<a href="https://github.com/mayhrina30)">Mayra Manzaneda</a></b></li>
 <li><b>👩‍💻<a href="https://github.com/mairaggimenez">Maira Gimenez</a></b></li>
 <li><b>👩🏻‍💻<a href="https://github.com/LucianaBaigorria">Luciana Baigorria</a></b></li>
- <li><b>👨‍💻<a href="https://github.com/jorolio">Jorje De la Plata</a></b></li>
+ <li><b>👨‍💻<a href="https://github.com/jorolio">Jorge De la Plata</a></b></li>
 
 <br> 
 <ul style="list-style-type: none;">
