@@ -1,0 +1,41 @@
+
+ /* Estilos para centrar el título "Iniciar Sesión" */
+ .center-container {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+     color: #e7e7f0;
+ }
+
+ /* Estilo para los mensajes de bienvenida o contraseña incorrecta */
+ .mensaje {
+     margin-top: 20px;
+     font-weight: bold;
+     text-align: center;
+     color: #333;
+ }
+
+ /* Estilos para el fondo de la página */
+ body {
+     background-image: url('/img/fondo.jpg');
+     /* Ruta a tu imagen de fondo */
+     background-size: auto;
+     background-position: center;
+     background-repeat: no-repeat;
+ }
+ /* Aumentar el tamaño de fuente a 20 píxeles */
+ body {
+     font-size: 25px;
+ }
+
+ /* Aumentar el tamaño de fuente de un elemento con la clase "titulo" */
+ .titulo {
+     font-size: 24px;
+ }
+
+ /* Aumentar el tamaño de fuente de un elemento con el ID "encabezado" */
+ #encabezado {
+     font-size: 28px;
+ }
