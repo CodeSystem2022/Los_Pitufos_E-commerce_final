@@ -42,9 +42,9 @@ El proyecto "Cosmic Comic" es una tienda en línea de productos de belleza que o
 Características Clave:
 
 <h2>Catálogo de Productos:</h2> Presenta una amplia gama de productos de belleza con imágenes atractivas y descripciones detalladas.
-Carrito de Compras: Los usuarios pueden agregar productos a su carrito de compras, visualizar la cantidad de productos en tiempo real y ver un resumen detallado de su carrito.
-Navegación Intuitiva: La interfaz de usuario incluye una barra de navegación que permite a los usuarios iniciar sesión fácilmente para gestionar sus compras.
-Proceso de Pago: La integración con MercadoPago facilita a los usuarios realizar transacciones seguras y rápidas.
-Diseño Responsivo: La aplicación está diseñada con Bootstrap para garantizar una experiencia consistente en dispositivos de diferentes tamaños.
+<h2>>Carrito de Compras:</h2 Los usuarios pueden agregar productos a su carrito de compras, visualizar la cantidad de productos en tiempo real y ver un resumen detallado de su carrito.
+<h2>Navegación Intuitiva:</h2> La interfaz de usuario incluye una barra de navegación que permite a los usuarios iniciar sesión fácilmente para gestionar sus compras.
+<h2>Proceso de Pago:</h2> La integración con MercadoPago facilita a los usuarios realizar transacciones seguras y rápidas.
+<h2>Diseño Responsivo:</h2> La aplicación está diseñada con Bootstrap para garantizar una experiencia consistente en dispositivos de diferentes tamaños.
 
 
