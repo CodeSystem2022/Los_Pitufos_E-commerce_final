@@ -39,7 +39,6 @@ Bootstrap-   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-D
 
 El proyecto "Cosmic Comic" es una tienda en línea de productos de belleza que ofrece una variedad de artículos como acondicionadores, bases y sombras, shampoo, labiales, cremas faciales y perfumes. Desarrollado con tecnologías web modernas, el proyecto utiliza HTML, CSS, JavaScript y Node.js para proporcionar una experiencia de usuario interactiva y atractiva.
 
-Características Clave:
 
 <h2>Catálogo de Productos:</h2> Presenta una amplia gama de productos de belleza con imágenes atractivas y descripciones detalladas.
 <h2>Proceso de Inicio de Sesión<h2> Los usuarios pueden acceder a sus cuentas utilizando un formulario de inicio de sesión intuitivo.
